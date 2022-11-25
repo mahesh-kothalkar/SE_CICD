@@ -15,8 +15,8 @@ const Tenant = () => {
 
     return (
         <>
-            <div className='Hello Tenant'>
-                <h2 className='name'>Welcome Tenant</h2>
+            <div className='Tenant'>
+                <h2 className='name'>Hello Tenant</h2>
                 {getprop.map((property) => {
                     return (
                         <>
