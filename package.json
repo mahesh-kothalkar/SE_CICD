@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://mahesh-kothalkar.github.io/SE_CICD",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
