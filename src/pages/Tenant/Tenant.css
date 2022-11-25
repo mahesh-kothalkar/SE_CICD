@@ -1,0 +1,28 @@
+.Tenant{
+   width: 900px;
+   align-items: center;
+   text-align: center;
+}
+.item{
+    border: 2px solid;
+    border-radius: 20px;
+    width: 600px;
+    margin-top: 10px;
+}
+.card{
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 600;
+}
+.address{
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 400;  
+}
+.tenantpageimg{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+
+}

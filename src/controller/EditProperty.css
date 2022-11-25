@@ -1,0 +1,31 @@
+.row {
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid ;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+    background-color: whitesmoke;
+}
+.rows{
+    background-color: white;
+    margin-top: 100px;
+    border: 2px solid;
+    width: 450px;
+    border-radius: 10px;
+    height: 200px;
+}
+.links{
+    margin-left: 10px;
+}
+.links:hover{
+    color: red;
+}
+.save{
+    height: 40px;
+    width: 100px;
+}
+.names{
+    margin-top: 20px;
+}

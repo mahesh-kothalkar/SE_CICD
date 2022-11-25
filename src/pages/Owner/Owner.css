@@ -1,0 +1,23 @@
+.Owner{
+    align-items: center;
+    text-align: center;
+}
+.items{
+    text-align: left;
+    padding: 5px;
+    font-weight: 600;
+    width: 800px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    /* border: 2px solid; */
+    margin: auto;
+}
